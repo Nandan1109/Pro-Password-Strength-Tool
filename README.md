@@ -4,11 +4,6 @@
 ## 📌 Title
 **Pro Password Strength Tool**
 
-## 👤 Author
-- **Name:** V. Yashwanth Lakshmi Nandan  
-- **Email:** yashviyyapu.1109@gmail.com  
-- **Date:** 27 June 2025
-
 ## 🌟 Overview
 The **Pro Password Strength Tool** is a modern web app that helps anyone create stronger passwords in an engaging way. It features a live animated gauge, password entropy estimation, and voice feedback, making it both fun and accessible.
 
